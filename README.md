@@ -1,4 +1,4 @@
- # NordVPN Wireguard Client Config +Docker (Nordlynx Alternative) HOW-TO
+ # NordVPN Wireguard Client Config (w/ Docker Nordlynx Alternative) HOW-TO
 
 ## Table of Contents
 
